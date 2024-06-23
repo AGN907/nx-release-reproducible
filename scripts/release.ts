@@ -40,6 +40,6 @@ import * as yargs from 'yargs'
     firstRelease: true,
     gitCommitMessage: 'chore({projectName}): release {version}',
     interactive: 'all',
-    projects: ['web'],
+    projects: ['my-app'],
   })
 })()
